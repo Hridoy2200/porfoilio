@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1696778a.css",
+    "main.js": "/static/js/main.a2bf30b8.js",
+    "static/js/787.b2e1b36e.chunk.js": "/static/js/787.b2e1b36e.chunk.js",
+    "static/media/certificate.jpg": "/static/media/certificate.626999a76852fcab14af.jpg",
+    "static/media/hri4.png": "/static/media/hri4.faf1a5c6d4f40d23bb60.png",
+    "static/media/hri3.png": "/static/media/hri3.7b5691db804b834c3522.png",
+    "static/media/hridoylogo.jpg": "/static/media/hridoylogo.d03136f7594b29be4c6f.jpg",
+    "static/media/contact1.png": "/static/media/contact1.218b9c0516f2f273c532.png",
+    "static/media/portfolio-03.jpg": "/static/media/portfolio-03.79934a04e60b47aff281.jpg",
+    "static/media/portfolio-06.jpg": "/static/media/portfolio-06.e569acd85eebd2b26492.jpg",
+    "static/media/portfolio-02.jpg": "/static/media/portfolio-02.e16d0cc8de5069cdf6f6.jpg",
+    "static/media/bootstrap.png": "/static/media/bootstrap.c814891b48e059efa6f1.png",
+    "static/media/portfolio-04.jpg": "/static/media/portfolio-04.9a190d2c1baedebf21ac.jpg",
+    "static/media/portfolio-05.jpg": "/static/media/portfolio-05.46ff6d1959e461be8444.jpg",
+    "static/media/portfolio-01.jpg": "/static/media/portfolio-01.935a29ae2eb562cc17cd.jpg",
+    "static/media/wordpress.png": "/static/media/wordpress.fa70aed2b064fadf140e.png",
+    "static/media/icons-16.png": "/static/media/icons-16.68908781e500cb1266b1.png",
+    "index.html": "/index.html",
+    "main.1696778a.css.map": "/static/css/main.1696778a.css.map",
+    "main.a2bf30b8.js.map": "/static/js/main.a2bf30b8.js.map",
+    "787.b2e1b36e.chunk.js.map": "/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1696778a.css",
+    "static/js/main.a2bf30b8.js"
+  ]
+}
